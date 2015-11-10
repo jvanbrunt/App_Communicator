@@ -1,0 +1,14 @@
+PODS:
+  - App_Communicator (0.1.0)
+
+DEPENDENCIES:
+  - App_Communicator (from `../`)
+
+EXTERNAL SOURCES:
+  App_Communicator:
+    :path: ../
+
+SPEC CHECKSUMS:
+  App_Communicator: 3ddf391901566b3ad0dcabf163d5fb49e262d263
+
+COCOAPODS: 0.39.0

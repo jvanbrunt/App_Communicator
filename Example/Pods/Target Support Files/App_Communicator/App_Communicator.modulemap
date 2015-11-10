@@ -1,0 +1,6 @@
+framework module App_Communicator {
+  umbrella header "App_Communicator-umbrella.h"
+
+  export *
+  module * { export * }
+}
